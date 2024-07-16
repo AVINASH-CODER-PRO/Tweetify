@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269943421388",
+    "project_id": "tweetify-db6ba",
+    "storage_bucket": "tweetify-db6ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269943421388:android:6ada7bc38c0b8cfe760569",
+        "android_client_info": {
+          "package_name": "com.example.tweetify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtAgwwL6ojb8OF6qfAfTqXe3QX1bP6Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
