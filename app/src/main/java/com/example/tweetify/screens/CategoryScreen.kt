@@ -64,6 +64,8 @@ fun CategoryScreen(onClick: (category: String) -> Unit) {
     val fetchedImages by imageViewModel.imageUrls.collectAsState()
     imageViewModel.fetchAllImages(categories.value.distinct())
 
+
+
     Column(modifier = Modifier
         .fillMaxSize()
         .background(GradientBackgroundBrush(true, gradcolors))
